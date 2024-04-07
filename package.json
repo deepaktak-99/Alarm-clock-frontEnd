@@ -1,0 +1,11 @@
+{
+  "name": "alarm-clock-main",
+  "version": "1.0.0",
+  "description": "<li>This is a repository for Alarm Clock Developed using Vanilla JavaScript, HTML, CSS.</li> <br> <li> It is developed to create a soothing Experience with powerful features and clean interface.</li> <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
